@@ -10,11 +10,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
 
 body {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
     background-color: var(--mouse);
     color: var(--branco);
-    font-family: 'Chakra Petch', sans-serif;
+  
 }
 
 .photo {
     width: 20%;
+}
+
+
+.playfair-display-<uniquifier> {
 }
