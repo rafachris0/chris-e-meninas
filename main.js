@@ -2,7 +2,14 @@ var nomeUsuario = '';
 var texto = document.querySelector('span');
 
 
-while(nomeUsuario == ''|| nomeUsuario == null) {
+while(nomeUsuario == '') {//|| nomeUsuario == null
     nomeUsuario = prompt('qual é seu nome?');
 }
-texto.textContent = nomeUsuario;
+
+if(nomeUsuario == null){
+texto.textContent = 'gi';
+}else{
+    texto.textContent = nomeUsuario;
+
+
+}
