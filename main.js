@@ -1,1 +1,1 @@
-prompt('qual é seu nome?')
+var nomeUsuario = prompt('qual é seu nome?')
