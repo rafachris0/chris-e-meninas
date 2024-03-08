@@ -1,1 +1,1 @@
-const cu = document.querySelectorAll("button");
+prompt('qual é seu nome?')
