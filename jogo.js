@@ -1,4 +1,4 @@
-let numero_Secreto = Math.random() * 20;
+let numero_Secreto = math.floor(Math.random() * 20);
 console.log(numero_Secreto);
 
 
