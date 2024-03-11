@@ -1,4 +1,6 @@
-let numero_Secreto = 13;
+let numero_Secreto = Math.random() * 20;
+console.log(numero_Secreto);
+
 
 let chute = '';
 
