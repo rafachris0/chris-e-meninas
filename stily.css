@@ -28,3 +28,8 @@ body {
 }
 span{color: rgb(5, 5, 143);
 }
+
+.contagem-regressiva{
+text-align: center;
+margin: 30px 0;
+}
