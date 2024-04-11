@@ -7,3 +7,4 @@ botoes[i].onclick = function(){
 botoes[i].classList.add('ativo');
 //botoes[0].class.List.remove('ativo');
 }
+}
