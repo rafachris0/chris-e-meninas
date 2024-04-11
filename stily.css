@@ -44,3 +44,9 @@ margin: 30px 0;
 .ativo{
     border: 0;
     border-bottom: 3px solid black;
+
+}
+
+.aba-conteudo{
+    display: none;
+}
